@@ -1,2 +1,2 @@
 # Resume
-This is a repo for my resume
+This repository hold my Resume in the Github pages that's accesible on internet.
